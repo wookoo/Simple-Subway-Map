@@ -21,6 +21,10 @@ C언어 소스코드/p.c
 ~~~
 Application/app/src/main/java/com/example/myapplication/LineInterface.java
 ~~~
+노선정보 파일 위치
+~~~
+서버/final.json
+~~~
 
 ### 알고리즘
 
